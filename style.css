@@ -1,8 +1,13 @@
+.title-format {
+    background-color: blueviolet;
+}
+
 .card-container {
     display: flex; 
     justify-content: space-around;
 }
 
-.color-blue {
-    color: blue;
+.standard {
+    width: 18rem;
+    margin: 1rem;
 }
